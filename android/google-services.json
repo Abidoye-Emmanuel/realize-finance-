@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742052350725",
+    "project_id": "realize-app-692f8",
+    "storage_bucket": "realize-app-692f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742052350725:android:0ddbc45aa4462f2593856c",
+        "android_client_info": {
+          "package_name": "com.example.realize_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-Diew5ZF2DMpXKafSKyJB7Lb1zKX0sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
